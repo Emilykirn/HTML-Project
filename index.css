@@ -1,0 +1,81 @@
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+
+
+}
+p {
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
+
+.div1{
+    text-align: left;
+   padding-left: 200px;
+   float: right;
+
+
+}
+
+.div2{
+    text-align: right;
+    padding-right: 200px;
+    float: left;
+ 
+}
+
+.div3 {
+    text-align: left;
+    padding-left: 200px;
+    float: right;
+}
+.firstpic {
+    float: left
+
+}
+.secondpic {
+    float: right;
+
+}
+.thirdpic {
+    float: left;
+}
+.smallBox{
+    width: 400px;
+    height: 15px;
+    background-color: #DFC2A1;
+}
+.radio { 
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    float: end;
+}
+
+footer {
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 1100px;
+    border-top: 25px;
+    margin: auto;
+
+}
+nav, a {
+    color: rgb(136, 136, 136);
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    text-decoration: none; 
+    font-family: 'Inter', sans-serif;
+
+   
+}
+a:hover {
+    background-color: #DFC2A1;
+    color: #fff;
+    text-decoration: none; 
+}
